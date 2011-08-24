@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;
+&lt;ncl id="${1:name}" xmlns="http://www.ncl.org.br/NCL3.0/EDTVProfile"&gt;
+	&lt;head&gt;
+		&lt;regionBase&gt;
+		&lt;/regionBase&gt;
+		
+		&lt;descriptorBase&gt;
+		&lt;/descriptorBase&gt;
+		
+		&lt;connectorBase&gt;
+		&lt;/connectorBase&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+	&lt;/body&gt;
+&lt;/ncl&gt;</string>
+	<key>name</key>
+	<string>Generate Template</string>
+	<key>scope</key>
+	<string>text.ncl</string>
+	<key>tabTrigger</key>
+	<string>template</string>
+	<key>uuid</key>
+	<string>3F3B8830-3154-4EBB-9BA6-8E0E7D6E9F04</string>
+</dict>
+</plist>
