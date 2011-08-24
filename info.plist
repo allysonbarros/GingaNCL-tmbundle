@@ -11,8 +11,6 @@
 			<string>------------------------------------</string>
 			<string>E8946DE4-0A44-4787-B91D-CEFED460E7DB</string>
 			<string>9E338BC6-691F-482D-BA7A-856923116035</string>
-			<string>09CE78B7-D537-4665-8DE9-BBEAB4FDDACA</string>
-			<string>3989027B-10D0-4B36-B7ED-5AF57A6A77CC</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -40,7 +38,12 @@
 			<key>9E338BC6-691F-482D-BA7A-856923116035</key>
 			<dict>
 				<key>items</key>
-				<array/>
+				<array>
+					<string>09CE78B7-D537-4665-8DE9-BBEAB4FDDACA</string>
+					<string>3989027B-10D0-4B36-B7ED-5AF57A6A77CC</string>
+					<string>358E6BC0-4E9A-4292-A21B-5DF5E56ED296</string>
+					<string>53603ACE-6423-4723-A6F0-78344F787AB1</string>
+				</array>
 				<key>name</key>
 				<string>Template Body</string>
 			</dict>
