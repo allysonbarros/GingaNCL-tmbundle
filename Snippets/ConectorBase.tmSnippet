@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;conectorBase&gt;
+	${0}
+&lt;/conectorBase&gt;</string>
+	<key>name</key>
+	<string>ConectorBase</string>
+	<key>scope</key>
+	<string>text.ncl</string>
+	<key>tabTrigger</key>
+	<string>nb</string>
+	<key>uuid</key>
+	<string>D48048D9-C0B9-435B-B45D-7E40B8E89505</string>
+</dict>
+</plist>

@@ -2,11 +2,91 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>3F3B8830-3154-4EBB-9BA6-8E0E7D6E9F04</string>
+			<string>2916157B-79A0-4B20-876A-AD13B24EE8A3</string>
+			<string>------------------------------------</string>
+			<string>E8946DE4-0A44-4787-B91D-CEFED460E7DB</string>
+			<string>9E338BC6-691F-482D-BA7A-856923116035</string>
+			<string>09CE78B7-D537-4665-8DE9-BBEAB4FDDACA</string>
+			<string>3989027B-10D0-4B36-B7ED-5AF57A6A77CC</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>36CCAA52-5CAD-4E1A-A33B-D89F0E3B26E1</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>3A13D6F8-C858-400C-8E2C-45504E7F6B02</string>
+					<string>9F4B5137-4EC4-4A5F-A601-9C81AE97923B</string>
+					<string>946717F7-0F95-4960-8792-954966F6B6F4</string>
+				</array>
+				<key>name</key>
+				<string>DescriptorBase and Descriptor</string>
+			</dict>
+			<key>81E75D4E-D8C2-4013-92EB-65B87F268ECB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>D48048D9-C0B9-435B-B45D-7E40B8E89505</string>
+					<string>4FD3BE83-FCD0-4DC6-9442-42FFBA153455</string>
+				</array>
+				<key>name</key>
+				<string>ConectorBase and Connector</string>
+			</dict>
+			<key>9E338BC6-691F-482D-BA7A-856923116035</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Template Body</string>
+			</dict>
+			<key>B116D988-ED3D-4F2C-B28C-1164347F0A6C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>E064A592-F22D-4C85-B2A6-505E8E67CD04</string>
+					<string>1A6C04C1-AD24-4E9A-A9D5-B0674386C964</string>
+					<string>1F725178-58BA-4C0F-9ED6-4822A9438AA8</string>
+				</array>
+				<key>name</key>
+				<string>RegionBase and Region</string>
+			</dict>
+			<key>E8946DE4-0A44-4787-B91D-CEFED460E7DB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B116D988-ED3D-4F2C-B28C-1164347F0A6C</string>
+					<string>36CCAA52-5CAD-4E1A-A33B-D89F0E3B26E1</string>
+					<string>81E75D4E-D8C2-4013-92EB-65B87F268ECB</string>
+				</array>
+				<key>name</key>
+				<string>Template Head</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Ginga NCL</string>
 	<key>ordering</key>
 	<array>
+		<string>2F761BC1-200D-4414-BA2C-DC5932D021EF</string>
 		<string>3F3B8830-3154-4EBB-9BA6-8E0E7D6E9F04</string>
+		<string>E064A592-F22D-4C85-B2A6-505E8E67CD04</string>
+		<string>3A13D6F8-C858-400C-8E2C-45504E7F6B02</string>
+		<string>D48048D9-C0B9-435B-B45D-7E40B8E89505</string>
+		<string>2916157B-79A0-4B20-876A-AD13B24EE8A3</string>
+		<string>1A6C04C1-AD24-4E9A-A9D5-B0674386C964</string>
+		<string>1F725178-58BA-4C0F-9ED6-4822A9438AA8</string>
+		<string>9F4B5137-4EC4-4A5F-A601-9C81AE97923B</string>
+		<string>946717F7-0F95-4960-8792-954966F6B6F4</string>
+		<string>09CE78B7-D537-4665-8DE9-BBEAB4FDDACA</string>
+		<string>4FD3BE83-FCD0-4DC6-9442-42FFBA153455</string>
+		<string>3989027B-10D0-4B36-B7ED-5AF57A6A77CC</string>
+		<string>358E6BC0-4E9A-4292-A21B-5DF5E56ED296</string>
+		<string>53603ACE-6423-4723-A6F0-78344F787AB1</string>
 	</array>
 	<key>uuid</key>
 	<string>01DB83B5-664E-4FBF-B6EB-9739205F903A</string>

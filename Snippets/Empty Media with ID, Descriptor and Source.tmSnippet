@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;media id="${1:id}" descriptor="${2:descriptorID}" src="${3:Source}" /&gt;</string>
+	<key>name</key>
+	<string>Empty Media with ID, Descriptor and Source</string>
+	<key>scope</key>
+	<string>text.ncl</string>
+	<key>tabTrigger</key>
+	<string>media</string>
+	<key>uuid</key>
+	<string>53603ACE-6423-4723-A6F0-78344F787AB1</string>
+</dict>
+</plist>

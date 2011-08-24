@@ -19,7 +19,7 @@
 	&lt;/body&gt;
 &lt;/ncl&gt;</string>
 	<key>name</key>
-	<string>Generate Template</string>
+	<string>Generate Full Template</string>
 	<key>scope</key>
 	<string>text.ncl</string>
 	<key>tabTrigger</key>

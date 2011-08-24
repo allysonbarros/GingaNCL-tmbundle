@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;port id="${1:id}" component="{2:componentID}"  /&gt;</string>
+	<key>name</key>
+	<string>Empty Port with ID and Component</string>
+	<key>tabTrigger</key>
+	<string>port</string>
+	<key>uuid</key>
+	<string>3989027B-10D0-4B36-B7ED-5AF57A6A77CC</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;descriptor id="${1:id}" region="${2:regionID}" /&gt;</string>
+	<key>name</key>
+	<string>Empty Descriptor with ID and RegionID</string>
+	<key>scope</key>
+	<string>text.ncl</string>
+	<key>tabTrigger</key>
+	<string>descriptor</string>
+	<key>uuid</key>
+	<string>946717F7-0F95-4960-8792-954966F6B6F4</string>
+</dict>
+</plist>
