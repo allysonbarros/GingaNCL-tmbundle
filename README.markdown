@@ -23,8 +23,6 @@ Author
 ======
 
 Allyson Barros - @allysonbarros - allysonbarrosrn@gmail.com - [http://allysonbarros.me](http://allysonbarros.me)
-Graduando em Análise e Desenvolvimento de Sistemas - IFRN
-Idealizador do Grupo WebLovers - [http://grupoweblovers.org](http://grupoweblovers.org)
 
 
 License
