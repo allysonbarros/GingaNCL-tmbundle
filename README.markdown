@@ -22,8 +22,8 @@ Estão incluídas no pacote os seguintes *Snnipets*:
 Author
 ======
 
-**Allyson Barros - @allysonbarros - allysonbarrosrn@gmail.com - [http://allysonbarros.me](http://allysonbarros.me)**</br>
-Graduando em Análise e Desenvolvimento de Sistemas - IFRN</br>
+Allyson Barros - @allysonbarros - allysonbarrosrn@gmail.com - [http://allysonbarros.me](http://allysonbarros.me)
+Graduando em Análise e Desenvolvimento de Sistemas - IFRN
 Idealizador do Grupo WebLovers - [http://grupoweblovers.org](http://grupoweblovers.org)
 
 
